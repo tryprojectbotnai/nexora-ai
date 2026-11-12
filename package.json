@@ -1,0 +1,1 @@
+{"name":"nexora-ai","version":"3.0.0","private":true,"scripts":{"dev":"vercel dev","start":"vercel dev"},"dependencies":{"openai":"^6.10.0","vercel":"latest"}}
